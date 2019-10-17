@@ -1,3 +1,6 @@
+#Author: Diego Fuentes
+#Contact email: diegofupa@gmail.com
+#Date:2019-04-29
 import numpy as np
 import pandas as pd
 from sklearn import preprocessing
